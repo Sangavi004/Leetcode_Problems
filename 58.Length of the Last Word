@@ -1,5 +1,3 @@
-//LEETCODE-58
-//FIND THE LENGTH OF THE LAST WORD
 class Solution {
     public int lengthOfLastWord(String s) {
         s=s.strip();
