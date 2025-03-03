@@ -1,3 +1,4 @@
+//LCP
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         String ans="";
