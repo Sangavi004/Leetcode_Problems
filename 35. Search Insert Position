@@ -1,4 +1,4 @@
-//code written by the Binary search
+//code written by like Binary search
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
