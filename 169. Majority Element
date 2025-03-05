@@ -1,3 +1,4 @@
+//by simple and easy approach
 class Solution {
     public int majorityElement(int[] nums) {
        int count=1;
