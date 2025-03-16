@@ -11,7 +11,7 @@ class Solution {
                       flag=false;
                      break;
                 }
-            }
+         }
              if(flag){
             ans=nums[i];
             break;
