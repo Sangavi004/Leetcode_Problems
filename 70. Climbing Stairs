@@ -1,0 +1,13 @@
+class Solution {
+    public int climbStairs(int n) {
+        int a=0,b=1,temp=0,c=0;
+        while(c!=n){
+            temp=a+b;
+            a=b;
+            b=temp;
+            c++;
+        }
+    
+    return temp;
+}
+}
